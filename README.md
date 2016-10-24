@@ -1315,5 +1315,5 @@ extern NSString * const MENU_ACTION_FORWARD;//转发
 ![enter image description here](https://github.com/AwakenDragon/ImageRepository/blob/master/EaseMobDIYUI/web_wifi_upload.png?raw=true)
 
 <h2 id = "3">期望</h2>
-- **合作：**如果你 也是环信的使用者，可以一起和我开发这个项目，让更多的环信开发者方便使用
-- **联系：**请联系我 QQ：940549652
+- **学习：**仅供参考和学习
+- **联系：**QQ：940549652
